@@ -79,3 +79,17 @@
 >  - 비디오
 >  - 오디오
 > 
+### 제목 요소(Heading Element)
+> h1~h6(h : heading)
+
+### 단락 요소(Paragraph Element)
+> p : Paragraph
+
+> hr : horizontal riles
+>   - 단락을 구분하는 수평선 표시 
+>   - 빈요소
+
+> br : Line Break
+>   - 같은 단락 안에서 강제 줄바꿈
+>   - 빈요소
+
