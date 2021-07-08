@@ -22,7 +22,7 @@
 
 ## HTML 기본구조
 
-`(backtick)
+`(이름 : backtick)
 
 ```
 <!DOCTYPE html>
