@@ -150,4 +150,13 @@ ex) <a href="http://www.naver.com">네이버</a>
 > td(table data) : 데이터 칸(셀)
 > 
 > caption : 테이블의 제목, 설명
-> 
+
+###Image element
+ > img
+ > attribute : src(source), alt(alternative)
+
+```
+<img src="imge.jpg" alt= image>
+```
+
+>img 태그를 사용할 때 src, alt 속성은 반드시 사용하야 
