@@ -116,10 +116,11 @@ ex) <a href="http://www.naver.com">네이버</a>
  >dl(Description List), dt(Description Term), dd(Description Data)
 
 ### Table Element
-> table, tdead, tbody, tfoot, tr, th, td, caption
+> table, thead, tbody, tfoot, tr, th, td, caption
 
 ```
 <table>
+  <caption></caption>
   <thead>
     <tr>
       <th></th>
@@ -137,3 +138,16 @@ ex) <a href="http://www.naver.com">네이버</a>
   </tfoot>
 </tavle>
 ```
+
+> table : table의 영역을 설정
+> 
+> thead, tbody, tfoot : table 데이터의 그룹을 표시
+> 
+> tr(table row) : 행
+> 
+> th(table head) : 제목 칸(셀)
+> 
+> td(table data) : 데이터 칸(셀)
+> 
+> caption : 테이블의 제목, 설명
+> 
