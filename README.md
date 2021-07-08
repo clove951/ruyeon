@@ -160,3 +160,11 @@ ex) <a href="http://www.naver.com">네이버</a>
 ```
 
 >img 태그를 사용할 때 src, alt 속성은 반드시 사용해야 함 
+>
+### Video element
+> <vldeo></video>
+> attrubute
+> - controls : 비디오 컨트롤바 표시
+> - loop : 반복재생
+> - muted : 음소거
+> - aytoplay : 자동재생 ( muted와 같이 사용 )
