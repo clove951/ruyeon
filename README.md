@@ -115,3 +115,25 @@ ex) <a href="http://www.naver.com">네이버</a>
 주제와 설명이 한 세트로 구성되는 목속
  >dl(Description List), dt(Description Term), dd(Description Data)
 
+### Table Element
+> table, tdead, tbody, tfoot, tr, th, td, caption
+
+```
+<table>
+  <thead>
+    <tr>
+      <th></th>
+    </tr>
+  </thead>
+  <tbody>
+      <tr>
+      <td></td>
+    </tr>
+  </tbody>
+  <tfoot>
+      <tr>
+      <td></td>
+    </tr>
+  </tfoot>
+</tavle>
+```
