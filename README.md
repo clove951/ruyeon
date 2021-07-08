@@ -159,4 +159,4 @@ ex) <a href="http://www.naver.com">네이버</a>
 <img src="imge.jpg" alt= image>
 ```
 
->img 태그를 사용할 때 src, alt 속성은 반드시 사용하야 
+>img 태그를 사용할 때 src, alt 속성은 반드시 사용해야 함 
