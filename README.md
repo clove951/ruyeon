@@ -218,8 +218,8 @@ ex)
 <input type="submit" value="이름"> 전송
 <input type="reset" value="이름">  내용취소
 
-<button type=button">이름</button>
-<button type=submit">이름</button>
-<button type=reset">이름</button>
+<button type="button">이름</button>
+<button type="submit">이름</button>
+<button type="reset">이름</button>
 ```
 
