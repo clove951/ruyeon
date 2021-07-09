@@ -201,3 +201,25 @@ ex)
 > - 화면에 줄바꿈 되지 않고 나란히 표시되는 요소
 > 
 > - 요소에 포함된 콘텐츠가 필요한 만큼만 사용함
+>
+> div(division)
+> - 단순 영역 구분 요소
+
+### 폼 요소
+
+> input, button
+
+```
+<input type="text">
+
+<input type="password">
+
+<input type="button" value="이름"> 일반버튼
+<input type="submit" value="이름"> 전송
+<input type="reset" value="이름">  내용취소
+
+<button type=button">이름</button>
+<button type=submit">이름</button>
+<button type=reset">이름</button>
+```
+
