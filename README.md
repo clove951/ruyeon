@@ -168,3 +168,19 @@ ex) <a href="http://www.naver.com">네이버</a>
 > - loop : 반복재생
 > - muted : 음소거
 > - aytoplay : 자동재생 ( muted와 같이 사용 )
+
+### 절대경로/상대경로
+
+> 절대경로 : 콘텐츠 파일을 불러오고자 하는 HTML 페이지가 어떤 위치에 있던 동일하게 찾아올 수 있도록 자세하게 표시하는 경로
+
+> 상대경로 : 콘텐츠 파일을 불러오고자 하는 HTML 페이지의 위치를 기준으로 콘텐츠 파일의 위치를 표시하는 경로
+
+```
+ex)
+
+절대경로 : <img src="https://w3schools.com/imges/picture.jpg">
+
+상대경로 : <img src="imges/picture.jpg>
+
+상대경로(상위폴더로) : <img src="../imges/picture.jpg">
+```
