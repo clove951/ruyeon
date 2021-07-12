@@ -183,6 +183,8 @@ ex)
 상대경로 : <img src="imges/picture.jpg>
 
 상대경로(상위폴더로) : <img src="../imges/picture.jpg">
+
+root(시작점) 상대경로 : <img src="/images/picture.jpg">
 ```
 
 
@@ -223,3 +225,12 @@ ex)
 <button type="reset">이름</button>
 ```
 
+###인터넷 주소체계
+
+> IP address : 192.168.0.1
+>
+> Domain address : http://naver.com
+>
+> - 기본주소(IP) => 의미있는 영어단어로 변환 : 도메인 주소
+>
+> www.naver.com/inages/picture.jpg => URL
